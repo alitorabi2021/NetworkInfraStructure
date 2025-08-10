@@ -23,6 +23,7 @@ public class BaseEntity<T> {
         return ip;
     }
 
+
     public void setIp(Integer ip) {
         this.ip = ip;
     }
